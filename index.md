@@ -1,7 +1,10 @@
 # This is a heading equivalent to `h1`
-## This is the next level
-### Some smaller text
-## Another `h2` level heading
+## `h2`
+### Task checklist
+- [x] Add Lain propaganda
+- [x] Add code snippet
+- [ ] Add a checklist
+## Lain propaganda
 ### Let's all love lain
 ![Image of Lain Iwakura from SEL](https://vignette2.wikia.nocookie.net/sel/images/6/65/Lain_s071.jpg/revision/latest?cb=20100513203649)
 ## Some random code snippet
