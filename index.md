@@ -2,4 +2,5 @@
 ## This is the next level
 ### Some smaller text
 ## Another `h2` level heading
-### Some more smaller text
+### Let's all love lain
+![Image of Lain Iwakura from SEL](https://vignette2.wikia.nocookie.net/sel/images/6/65/Lain_s071.jpg/revision/latest?cb=20100513203649)
